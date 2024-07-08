@@ -59,6 +59,7 @@ let score1 = undefined ;
   // //  counter++ postfix   bad  me   increase hoti hai  
   // console.log(counter);
 
+  
 let x = 3;
 const y = x++;
 
