@@ -29,7 +29,7 @@ let score1 = undefined ;
 //  console.log(bills)
 //  console.log(typeof bills)
  
-//   operations  
+//  JavaScript Operators
 
 //  console.log(2+2);
 //  console.log(2-2);
@@ -59,7 +59,7 @@ let score1 = undefined ;
   // //  counter++ postfix   bad  me   increase hoti hai  
   // console.log(counter);
 
-  
+
 let x = 3;
 const y = x++;
 
