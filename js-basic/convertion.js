@@ -26,5 +26,47 @@ let score1 = undefined ;
 //  33 to convert in to string 33 but typeof  string 
 
 
- console.log(bills)
- console.log(typeof bills)
+//  console.log(bills)
+//  console.log(typeof bills)
+ 
+//   operations  
+
+//  console.log(2+2);
+//  console.log(2-2);
+//  console.log(2*2);
+//  console.log(2/2);
+//  console.log(2%2); 
+//  console.log(2**2);
+
+//  let str1 = "hello"
+//  let str2 = " krishna"
+//  let str3 = str1+str2
+//  console.log(str3);
+
+//   console.log("1"+2);
+//   console.log(1+"2");
+//   console.log("1" + 2 + 2 + 5 +5+5);
+//   //  if frist string then treat as  string 
+//   console.log(1+2+"3");
+  //  if frist is number then treat as number 
+//  console.log(+true) = 1
+// console.log(+"") = 0 
+// console.log(+"hjvtyv")  = NaN
+
+  // let counter = 99;
+
+  // // ++counter prefix  increase phle hoti h
+  // //  counter++ postfix   bad  me   increase hoti hai  
+  // console.log(counter);
+
+let x = 3;
+const y = x++;
+
+console.log(x , y);
+// Expected output: "x:4, y:3"
+
+let a = 3;
+const b = ++a;
+
+console.log(a,b);
+// Expected output: "a:4, b:4"
