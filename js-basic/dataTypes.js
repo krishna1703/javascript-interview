@@ -21,16 +21,16 @@ console.log("kknjnj")
 
 //  object 
 
- console.log(typeof "krishna");
+//  console.log(typeof "krishna");
  
- console.log(typeof 18 );
+//  console.log(typeof 18 );
  
- console.log(typeof true );
+//  console.log(typeof true );
  
- console.log(typeof false);
+//  console.log(typeof false);
  
- console.log(typeof null);
+//  console.log(typeof null);
 
- console.log(typeof undefined);
+//  console.log(typeof undefined);
  
- console.log(typeof Symbol);
+//  console.log(typeof Symbol);
