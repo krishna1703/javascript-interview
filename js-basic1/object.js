@@ -2,6 +2,8 @@
 // Singleton is an object literal with properties and methods. It can be accessed globally, ensuring that there's only one instance of this object.
 //  Object.create methods use 
 
+
+
 // object literals
 //  this is object literals
 const mysym = Symbol("key")
