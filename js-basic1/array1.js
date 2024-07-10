@@ -1,6 +1,6 @@
 
-  const  arr = [10,11,12,13,14,15]
-  const arr1 = [1,2,3,4,5,]
+  // const  arr = [10,11,12,13,14,15]
+  // const arr1 = [1,2,3,4,5,]
 
     // arr1.push(arr)
     // console.log(arr1)
