@@ -29,4 +29,4 @@
 // function  Array(getarray){
 // return getarray[5]
 // }
-//     console.log(Array(num))
+//     console.log(Array(num));
