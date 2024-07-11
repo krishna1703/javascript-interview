@@ -85,3 +85,32 @@ console.log(M.hasOwnProperty("c"))
 // Determines whether an object has a property with the specified name.
 //   object me  property find krna 
 // true 
+
+// object destructuring in javascript
+
+ const L =  {
+    name:"kkk",
+    age:225,
+    collage :"jjjjj",
+    per: 55,
+ } 
+
+  console.log(L.name);
+
+
+//   object destructuring
+  
+// const {name,age,per,collage} = L;
+// console.log(naam,umer,percentage);
+
+//  const {name:naam,age:umer,per:percentage,collage} = L;
+//  console.log(naam,umer,percentage);
+
+// api 
+// {
+//     json formate 
+// }
+
+[
+    {},{},{}
+]
