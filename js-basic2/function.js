@@ -76,5 +76,5 @@
 // return money;
 //                 }
 //        console.log(calculate(100)) 
-      //   result 100 
+      //   result 100 ;
 
