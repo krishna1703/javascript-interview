@@ -62,4 +62,4 @@
 // //  now  hoisting  comes into the picture
 
 //   console.log(a(5))
-// //   6 output
+// //   6 output;
